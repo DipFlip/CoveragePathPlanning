@@ -19,10 +19,6 @@ from .coverage_path import wavefront
 from .fuel_path import splice_paths
 from .fuel_path import get_fuel_paths
 
-# Testing functions
-from .testers import single_robot_single
-from .testers import single_robot_multiple
-
 # Rasterization functions
 from .conversion import conversion
 from .run_coverage import run_coverage
